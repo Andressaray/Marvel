@@ -1,0 +1,20 @@
+.header-content{
+    background-color:black !important;
+    font-family: fantasy;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+    letter-spacing: 1px;
+    width: 100%;
+    height: 12vh;
+    text-align: center;
+}
+.box-content{
+    width: 100%;
+    display: inline-block;
+}
+.marvel{
+    width: 400px;
+    height: 50px;
+    margin-top: 15px;
+}
